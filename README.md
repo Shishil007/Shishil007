@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shishil007
 - 👀 I’m interested in Software Development and DevOps Roles
-- 🌱 I worked as a System Software Engineering Intern at NVIDIA for 6 Months
+- 🌱 I worked as a System Software Engineering Intern at NVIDIA for 6 Months and currently working as FullStack Developer at Peoplestrong Technologies
 - 💞️ I’m looking to collaborate on projects
 - 📫 Reach me on sandilyashishil@gmail.com
 
